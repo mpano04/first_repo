@@ -4,7 +4,6 @@ Currently, I am learning JavaScript programming and honing my skills in web desi
 using tools like Figma to create impactful and user-friendly projects.
 I'm enthusiastic about collaborating on open-source projects, engaging in web development, 
 or participating in initiatives that drive positive change.
-Fun fact: I also dabble in cryptocurrency mining and 
-enjoy exploring the realm of digital investments.
+
 Feel free to reach out via email at ndabarinzempanomaurice@gmail.com
 or connect with me on GitHub at @mpano04.
